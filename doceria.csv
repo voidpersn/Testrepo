@@ -1,0 +1,16 @@
+data_venda,produto,quantidade,valor_unitario,cliente_id
+2025-04-27,Bolo de Chocolate,2,25.00,1
+2025-04-27,Brigadeiro,10,2.50,2
+2025-04-27,Pudim de Leite,1,18.00,3
+2025-04-26,Torta de Maçã,1,30.00,1
+2025-04-26,Coxinha de Brigadeiro,5,3.00,3
+2025-04-26,Bolo de Cenoura,1,22.00,2
+2025-04-25,Brigadeiro,15,2.50,1
+2025-04-25,Brownie,3,8.00,4
+2025-04-25,Pudim de Leite,2,18.00,2
+2025-04-24,Bolo de Chocolate,1,25.00,3
+2025-04-24,Torta de Limão,1,28.00,1
+2025-04-24,Brigadeiro,20,2.50,4
+2025-04-23,Brownie,5,8.00,2
+2025-04-23,Bolo de Cenoura,2,22.00,3
+2025-04-23,Torta de Maçã,1,30.00,4
